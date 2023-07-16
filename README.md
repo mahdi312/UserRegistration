@@ -1,2 +1,2 @@
 # UserRegistration
-"Spring Boot app with PostgreSQL DB for user registration. Sends email confirmation within 15min limit. Build secure, reliable registration systems."
+"This is a Spring Boot project with a PostgreSQL database that allows for complete user registration, including email confirmation. Upon registration, the user will receive an email with a confirmation link. The user has 15 minutes to confirm their email address before the registration process is canceled. This project is a great starting point for building secure and reliable user registration systems in your applications."
